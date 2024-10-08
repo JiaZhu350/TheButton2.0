@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TheButton2.0/static/css/main.f855e6bc.css",
+    "main.js": "/TheButton2.0/static/js/main.f20a124d.js",
+    "static/js/453.ed3810f9.chunk.js": "/TheButton2.0/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/TheButton2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TheButton2.0/index.html",
+    "main.f855e6bc.css.map": "/TheButton2.0/static/css/main.f855e6bc.css.map",
+    "main.f20a124d.js.map": "/TheButton2.0/static/js/main.f20a124d.js.map",
+    "453.ed3810f9.chunk.js.map": "/TheButton2.0/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f20a124d.js"
+  ]
+}
